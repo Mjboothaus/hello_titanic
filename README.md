@@ -12,11 +12,11 @@ Basically this (simple) working example is meant to demostrate the architecture/
 
 A (currently hand-drawn) diagram of the overall framework is shown below:
 
-[TODO: Complete drawing and insert image]
+![Framework overview](nbs/images/FrameworkOverview.jpg)
 
 ## Install
 
-`pip install your_project_name`
+`pip install hello_titanic`
 
 ## How to use
 
