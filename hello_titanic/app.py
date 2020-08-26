@@ -11,9 +11,9 @@ import streamlit as st
 from streamlit_folium import folium_static
 import folium
 
-import titanic_nbdev.core as core
-import titanic_nbdev.datapipe as datapipe
-import titanic_nbdev.geo as geo
+import hello_titanic.core as core
+import hello_titanic.datapipe as datapipe
+import hello_titanic.geo as geo
 
 from pandas_profiling import ProfileReport
 from streamlit_pandas_profiling import st_profile_report

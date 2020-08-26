@@ -1,10 +1,9 @@
 {
-  "Notebook": {
-    "Export to modules": "/export",
-    "Convert to html": "/export2html",
-    "Show doc": "/showdoc",
-    "Test functions": "/test",
-    "Core functions": "/core",
-    "Command line functions": "/cli"
+  "hello_titanic": {
+    "Overview": "/",
+    "Core: Titanic (nbdev)": "/core",
+    "Datapipe - Titanic": "/datapipe",
+    "Geo-location model": "/geo",
+    "Titanic Streamlit App": "/app"
   }
 }
